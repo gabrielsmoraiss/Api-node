@@ -1,2 +1,2 @@
 # Api-node
-Project to Learn Node
+Node project with express and MongoDb to Learn.
